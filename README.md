@@ -22,3 +22,19 @@ Successful URL responses should have a 200 code. Ensure that you include error c
 ## License
 
 [License](LICENSE.txt)
+
+```
+cd12099-Full-Stack-Apps-AWS
+├─ CODEOWNERS
+├─ LICENSE.txt
+├─ package-lock.json
+├─ project starter code
+│  ├─ .DS_Store
+│  ├─ package-lock.json
+│  ├─ package.json
+│  ├─ server.js
+│  └─ util
+│     └─ util.js
+└─ README.md
+
+```
